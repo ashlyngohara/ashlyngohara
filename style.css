@@ -1,5 +1,6 @@
 body {
     background-color:white;
+    display:none;
 }
 
 header {
@@ -39,7 +40,7 @@ head {
 
 a {
 	text-decoration:none;
-	color:#97a8a8;
+	color:#90B3B2;
 }
 
 .material-icons {
@@ -52,7 +53,7 @@ a {
 }
 
 .bio {
-	font-size:20px;
+	font-size:18px;
 	font-family: 'Roboto', sans-serif;
 	letter-spacing: 2px;
 	line-height: 1.6;
@@ -64,8 +65,25 @@ a {
   width: 90%;
 }
 
+/* unvisited link */
+.a:link {
+    color: #90B3B2;
+}
 
+/* visited link */
+.a:visited {
+    color: #90B3B2;
+}
 
+/* mouse over link */
+.a:hover {
+    color: blue;
+}
+
+/* selected link */
+.a:active {
+    color: blue;
+}
 
 
 
