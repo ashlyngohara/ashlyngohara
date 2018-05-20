@@ -126,7 +126,7 @@ h2 {
 
 .work {
 	font-size:18px;
-	
+
 }
 
 li {
@@ -135,6 +135,13 @@ li {
 
 .description {
 	font-size:15px;
+}
+
+.resumepics {
+	width:70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
