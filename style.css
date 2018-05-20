@@ -113,6 +113,29 @@ a {
     visibility: visible;
 }
 
+h2 {
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.works {
+	font-size: 20px;
+	text-decoration:none;
+	color:black;
+}
+
+.work {
+	font-size:18px;
+	
+}
+
+li {
+	font-family: 'Roboto', sans-serif;
+}
+
+.description {
+	font-size:15px;
+}
 
 
 
